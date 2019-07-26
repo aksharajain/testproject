@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/gwt-2.8.2/gwt-user.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/gwt-2.8.2/gwt-dev.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/gwt-2.8.2/validation-api-1.0.0.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/gwt-2.8.2/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/jain akshara/Downloads/gwt-material-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/jain akshara/Downloads/gwt-material-addins-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/jain akshara/Downloads/gwt-material-jquery-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/jain akshara/Downloads/gwt-material-table-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/jain akshara/Downloads/gwt-material-themes-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/jain akshara/Downloads/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
